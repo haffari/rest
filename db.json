@@ -1,29 +1,133 @@
 {
-  "items": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+  "items": [  {
+    "dags": "2011-06-28",
+    "fisktegundId": 91,
+    "heitiBeitu": "frances",
+    "id": 934,
+    "kynId": 2,
+    "lengdCm": 68,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-28",
+    "fisktegundId": 91,
+    "id": 939,
+    "kynId": 1,
+    "lengdCm": 63,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-28",
+    "fisktegundId": 91,
+    "heitiBeitu": "frances",
+    "id": 942,
+    "kynId": 1,
+    "lengdCm": 65,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-29",
+    "fisktegundId": 91,
+    "heitiBeitu": "collie dog",
+    "id": 1015,
+    "kynId": 1,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-15",
+    "fisktegundId": 91,
+    "heitiBeitu": "green butt",
+    "id": 791,
+    "kynId": 2,
+    "lengdCm": 79,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-15",
+    "fisktegundId": 91,
+    "heitiBeitu": "frances",
+    "id": 797,
+    "kynId": 2,
+    "lengdCm": 67,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-17",
+    "fisktegundId": 91,
+    "id": 807,
+    "kynId": 2,
+    "lengdCm": 75,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-17",
+    "fisktegundId": 91,
+    "heitiBeitu": "sunray",
+    "id": 809,
+    "kynId": 1,
+    "lengdCm": 57,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-17",
+    "fisktegundId": 91,
+    "heitiBeitu": "friggi",
+    "id": 810,
+    "kynId": 2,
+    "lengdCm": 82,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-17",
+    "fisktegundId": 91,
+    "heitiBeitu": "sunray",
+    "id": 811,
+    "kynId": 2,
+    "lengdCm": 82,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-18",
+    "fisktegundId": 91,
+    "heitiBeitu": "hitch",
+    "id": 812,
+    "kynId": 1,
+    "lengdCm": 59,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  },
+  {
+    "dags": "2011-06-18",
+    "fisktegundId": 91,
+    "heitiBeitu": "frances",
+    "id": 813,
+    "kynId": 1,
+    "lengdCm": 84,
+    "stadaId": 2,
+    "veidarfaeriId": 23,
+    "veidistadurId": 361
+  }
   ],
   "profile": {
     "name": "typicode"
