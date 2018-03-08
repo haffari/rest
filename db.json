@@ -1,210 +1,31 @@
 {
-  "version": "1.0",
-  "encoding": "UTF-8",
-  "feed": {
-    "xmlns": "http://www.w3.org/2005/Atom",
-    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
-    "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
-    "id": {
-      "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
     },
-    "updated": {
-      "$t": "2014-05-20T08:04:07.292Z"
+    {
+      "id": 2,
+      "title": "Post 2"
     },
-    "category": [
-      {
-        "scheme": "http://schemas.google.com/spreadsheets/2006",
-        "term": "http://schemas.google.com/spreadsheets/2006#list"
-      }
-    ],
-    "title": {
-      "type": "text",
-      "$t": "Sheet1"
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
-    "link": [
-      {
-        "rel": "alternate",
-        "type": "application/atom+xml",
-        "href": "https://docs.google.com/spreadsheets/d/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/pubhtml?hl\u003den_US"
-      },
-      {
-        "rel": "http://schemas.google.com/g/2005#feed",
-        "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic"
-      },
-      {
-        "rel": "http://schemas.google.com/g/2005#post",
-        "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic"
-      },
-      {
-        "rel": "self",
-        "type": "application/atom+xml",
-        "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic?alt\u003djson"
-      }
-    ],
-    "author": [
-      {
-        "name": {
-          "$t": "muthuri.kelmut"
-        },
-        "email": {
-          "$t": "muthuri.kelmut@gmail.com"
-        }
-      }
-    ],
-    "openSearch$totalResults": {
-      "$t": "5"
-    },
-    "openSearch$startIndex": {
-      "$t": "1"
-    },
-    "entry": [
-      {
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cokwr"
-        },
-        "updated": {
-          "$t": "2014-05-20T08:04:07.292Z"
-        },
-        "category": [
-          {
-            "scheme": "http://schemas.google.com/spreadsheets/2006",
-            "term": "http://schemas.google.com/spreadsheets/2006#list"
-          }
-        ],
-        "title": {
-          "type": "text",
-          "$t": "ARM"
-        },
-        "content": {
-          "type": "text",
-          "$t": "vol: 16,093,900"
-        },
-        "link": [
-          {
-            "rel": "self",
-            "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cokwr"
-          }
-        ]
-      },
-      {
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cpzh4"
-        },
-        "updated": {
-          "$t": "2014-05-20T08:04:07.292Z"
-        },
-        "category": [
-          {
-            "scheme": "http://schemas.google.com/spreadsheets/2006",
-            "term": "http://schemas.google.com/spreadsheets/2006#list"
-          }
-        ],
-        "title": {
-          "type": "text",
-          "$t": "SCOM"
-        },
-        "content": {
-          "type": "text",
-          "$t": "vol: 6,130,600"
-        },
-        "link": [
-          {
-            "rel": "self",
-            "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cpzh4"
-          }
-        ]
-      },
-      {
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cre1l"
-        },
-        "updated": {
-          "$t": "2014-05-20T08:04:07.292Z"
-        },
-        "category": [
-          {
-            "scheme": "http://schemas.google.com/spreadsheets/2006",
-            "term": "http://schemas.google.com/spreadsheets/2006#list"
-          }
-        ],
-        "title": {
-          "type": "text",
-          "$t": "EQTY"
-        },
-        "content": {
-          "type": "text",
-          "$t": "vol: 2,317,200"
-        },
-        "link": [
-          {
-            "rel": "self",
-            "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/cre1l"
-          }
-        ]
-      },
-      {
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/chk2m"
-        },
-        "updated": {
-          "$t": "2014-05-20T08:04:07.292Z"
-        },
-        "category": [
-          {
-            "scheme": "http://schemas.google.com/spreadsheets/2006",
-            "term": "http://schemas.google.com/spreadsheets/2006#list"
-          }
-        ],
-        "title": {
-          "type": "text",
-          "$t": "KCB"
-        },
-        "content": {
-          "type": "text",
-          "$t": "vol: 988,900"
-        },
-        "link": [
-          {
-            "rel": "self",
-            "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/chk2m"
-          }
-        ]
-      },
-      {
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/ciyn3"
-        },
-        "updated": {
-          "$t": "2014-05-20T08:04:07.292Z"
-        },
-        "category": [
-          {
-            "scheme": "http://schemas.google.com/spreadsheets/2006",
-            "term": "http://schemas.google.com/spreadsheets/2006#list"
-          }
-        ],
-        "title": {
-          "type": "text",
-          "$t": "UCHM"
-        },
-        "content": {
-          "type": "text",
-          "$t": "vol: 913,000"
-        },
-        "link": [
-          {
-            "rel": "self",
-            "type": "application/atom+xml",
-            "href": "https://spreadsheets.google.com/feeds/list/1hb9O9MulweXASHaRzYbIOpRpkT7Mksx5xayfsUtv_8g/od6/public/basic/ciyn3"
-          }
-        ]
-      }
-    ]
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
