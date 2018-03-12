@@ -1,5 +1,4 @@
-{
-  "items": [    {
+[    {
     "dags": "2011-06-25",
     "fisktegundId": 91,
     "heitiBeitu": "sunray",
@@ -198,8 +197,4 @@
     "veidarfaeriId": 23,
     "veidistadurId": 381
   }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
