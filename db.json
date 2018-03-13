@@ -26,16 +26,6 @@
       "dags": "2011-07-24",
       "fisktegundId": 91,
       "heitiBeitu": "snaelda",
-      "id": 2377,
-      "kynId": 2,
-      "stadaId": 2,
-      "veidarfaeriId": 23,
-      "veidistadurId": 366
-    },
-    {
-      "dags": "2011-07-24",
-      "fisktegundId": 91,
-      "heitiBeitu": "snaelda",
       "id": 2378,
       "kynId": 1,
       "lengdCm": 70,
@@ -43,7 +33,5 @@
       "veidarfaeriId": 23,
       "veidistadurId": 366
     }
-     ],
-  "item": "first",
-  "stamp": "second"
+     ]
 }
