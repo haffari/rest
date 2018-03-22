@@ -1,5 +1,4 @@
-{
-  "entry": [
+[
     {
       "dags": "2011-07-27",
       "fisktegundId": 91,
@@ -33,5 +32,4 @@
       "veidarfaeriId": 23,
       "veidistadurId": 366
     }
-     ]
-}
+  ]
